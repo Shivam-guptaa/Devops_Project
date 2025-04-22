@@ -19,8 +19,7 @@ services:
       - "3000:3000"  
     networks:
       - mern_network
-    env_file:
-      - ./frontend/.env
+
 
   mongodb:
     image: mongo:latest  
