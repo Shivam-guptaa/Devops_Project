@@ -48,7 +48,7 @@ const Login = () => {
                             alignItems: 'center',
                         }}
                     >
-                        <h1>WELCOME BACK</h1>
+                        <h1>WELCOME BACKk</h1>
                         <span style={{ fontSize: '13px', color: '#333' }}>
                             Welcome back! Please enter your details
                         </span>
