@@ -43,5 +43,3 @@ jobs:
       - name: Wait for services to be ready
         run: sleep 10
 
-      # - name: Tear down
-      #   run: docker-compose down
